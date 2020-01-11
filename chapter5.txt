@@ -1,0 +1,50 @@
+git status
+doskey /history > chapter1.txt
+git status
+git add chapter1.txt
+git status
+git commit -m "Added new file - chapter1.txt"
+git status
+git fetch
+git status
+git push origin3 master
+cd ..
+mkdir Test12
+cd Test12
+git clone https://github.com/Tomasz-nurk/Test.git
+git remote
+cd Test
+git remote
+git remote -v
+cd ..
+cd GIT-nauka
+git status
+git fetch
+git status
+git remote
+git pull origin3 master
+git push -u origin origin3
+git push -u origin origin3/master
+git remote -v
+git push -u origin3 origin/master
+git push -u origin master
+doskey /history > chapter2.txt
+git status
+git add .
+git commit 
+git commit -m "added next file chapter2"
+git fetch
+git status
+doskey /history > chapter3.txt
+doskey /history > chapter4.txt
+git add .
+git commit -m "Added another files 3 and 4"
+git fetch && git status
+git push
+git log
+git branch
+git branch C5
+git branch
+git status
+git checkout C5
+doskey /history > chapter5.txt
