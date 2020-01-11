@@ -1,0 +1,3 @@
+git checkout -b C6
+git log
+doskey /history > Chapter6.txt
