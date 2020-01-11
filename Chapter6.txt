@@ -1,6 +1,7 @@
 git checkout -b C6
 git log
 doskey /history > Chapter6.txt
+
 git log
 git checkout -b C5
 git branch -d C5
@@ -12,3 +13,5 @@ git push
 git push -u origin C6
 git checkout -
 doskey /history > Chapter6.txt
+
+
