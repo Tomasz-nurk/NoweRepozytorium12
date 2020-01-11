@@ -1,0 +1,31 @@
+git --version
+git config
+git config user.name=Tomasz-nurk
+git config user.name="Tomasz-nurk"
+git config user.name = "Tomasz-nurk"
+git config --global user.name "Tomasz-nurk"
+git config --global user.email "Tuccafun#1234Tomasz-nurk"
+git config --global user.email "zsamotrunk@gmail.com"
+cd..
+ls
+cd..
+ls
+cd Admin
+cd Users
+cd Admin
+ls
+cd Documents
+mkdir GIT-nauka
+cd GIT-nauka
+git init
+ls
+ls -la
+git remote add origin https://github.com/Tomasz-nurk/NoweRepozytorium12.git
+git remote add origin2 https://github.com/Tomasz-nurk/NoweRepozytorium12.git
+git remote
+git remote add origin2 https://github.com/Tomasz-nurk/Test.git
+git remote add origin3 https://github.com/Tomasz-nurk/Test.git
+git remote remove origin2
+git remote
+git status
+doskey /history > chapter1.txt
